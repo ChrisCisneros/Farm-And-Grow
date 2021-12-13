@@ -1627,3 +1627,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-10.34.47:734][242]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.13-10.34.47:734][242]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.12.13-10.34.47:734][242]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.12.13-10.35.24:751][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
